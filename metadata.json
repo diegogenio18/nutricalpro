@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora Nutricional",
+  "description": "Calculadora nutricional e de custos para misturas de pós e ingredientes alimentares.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
